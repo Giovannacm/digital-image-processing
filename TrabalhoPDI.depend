@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1599335839 source:c:\users\giova\onedrive\documentos\faculdade\pdi\trabalhopdi\imagempgm.cpp
+	"imagemPGM.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<list>
+	<iterator>
+
+1599668227 c:\users\giova\onedrive\documentos\faculdade\pdi\trabalhopdi\imagempgm.hpp
+	<stdio.h>
+
+1599335858 c:\users\giova\onedrive\documentos\faculdade\pdi\trabalhopdi\imagemppm.hpp
+	<stdio.h>
+
+1599335849 source:c:\users\giova\onedrive\documentos\faculdade\pdi\trabalhopdi\imagemppm.cpp
+	"imagemPPM.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<algorithm>
+	<list>
+
+1599616435 source:c:\users\giova\onedrive\documentos\faculdade\pdi\trabalhopdi\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"imagemPGM.hpp"
+	"imagemPPM.hpp"
+
+1599311877 c:\users\giova\onedrive\documentos\faculdade\pdi\trabalhopdi\imagempgm.cpp
+	"imagemPGM.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<list>
+	<iterator>
+
+1599311960 c:\users\giova\onedrive\documentos\faculdade\pdi\trabalhopdi\imagemppm.cpp
+	"imagemPPM.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<algorithm>
+	<list>
+
